@@ -1,0 +1,90 @@
+[
+  {
+    "id": "INC001",
+    "title": "Database Connection Timeout",
+    "severity": "Critical",
+    "affectedService": "Payment Gateway",
+    "status": "Open",
+    "assignedTo": "John Smith",
+    "createdAt": "2024-04-22 10:30 AM",
+    "resolvedAt": "-",
+    "comments": "Connection pool exhausted"
+  },
+  {
+    "id": "INC002",
+    "title": "High Memory Usage on Server",
+    "severity": "High",
+    "affectedService": "Web Server",
+    "status": "In Progress",
+    "assignedTo": "Sarah Johnson",
+    "createdAt": "2024-04-21 02:15 PM",
+    "resolvedAt": "-",
+    "comments": "Memory leak identified in service"
+  },
+  {
+    "id": "INC003",
+    "title": "SSL Certificate Expiring",
+    "severity": "Medium",
+    "affectedService": "API Server",
+    "status": "Pending",
+    "assignedTo": "Mike Chen",
+    "createdAt": "2024-04-20 11:00 AM",
+    "resolvedAt": "-",
+    "comments": "Certificate renewal in progress"
+  },
+  {
+    "id": "INC004",
+    "title": "Network Latency Issues",
+    "severity": "High",
+    "affectedService": "Email Service",
+    "status": "In Progress",
+    "assignedTo": "Emily Davis",
+    "createdAt": "2024-04-19 03:45 PM",
+    "resolvedAt": "-",
+    "comments": "ISP investigating the issue"
+  },
+  {
+    "id": "INC005",
+    "title": "Disk Space Low",
+    "severity": "Medium",
+    "affectedService": "Storage Server",
+    "status": "Resolved",
+    "assignedTo": "Alex Wilson",
+    "createdAt": "2024-04-18 09:20 AM",
+    "resolvedAt": "2024-04-18 02:30 PM",
+    "comments": "Additional storage allocated"
+  },
+  {
+    "id": "INC006",
+    "title": "Authentication Service Down",
+    "severity": "Critical",
+    "affectedService": "Authentication",
+    "status": "Resolved",
+    "assignedTo": "Robert Martinez",
+    "createdAt": "2024-04-17 06:00 PM",
+    "resolvedAt": "2024-04-17 08:30 PM",
+    "comments": "Service restored after failover"
+  },
+  {
+    "id": "INC007",
+    "title": "Application Crash",
+    "severity": "High",
+    "affectedService": "Web Portal",
+    "status": "Open",
+    "assignedTo": "Lisa Anderson",
+    "createdAt": "2024-04-16 01:30 PM",
+    "resolvedAt": "-",
+    "comments": "Error logs under analysis"
+  },
+  {
+    "id": "INC008",
+    "title": "DNS Resolution Slow",
+    "severity": "Low",
+    "affectedService": "DNS Server",
+    "status": "Pending",
+    "assignedTo": "Tom Brown",
+    "createdAt": "2024-04-15 10:00 AM",
+    "resolvedAt": "-",
+    "comments": "Cache optimization recommended"
+  }
+]
