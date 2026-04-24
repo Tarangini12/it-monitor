@@ -34,17 +34,6 @@ const MonitorNavbar = () => {
                             </NavLink>
                         </li>
 
-                        <li className="nav-item mx-2">
-                            <NavLink
-                                to="/logs"
-                                className={({ isActive }) =>
-                                    `nav-link ${isActive ? 'active' : ''}`
-                                }
-                            >
-                                Logs
-                            </NavLink>
-                        </li>
-
                     </ul>
                 </div>
 
